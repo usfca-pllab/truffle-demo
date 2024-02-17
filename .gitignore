@@ -33,6 +33,6 @@ metals.sbt
 /.worksheet/
 
 # Truffle-generated stuff
-com/
-lir/
+/com/
+/lir/
 
